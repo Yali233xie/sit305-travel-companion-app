@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Travel Companion App</string>
+    <string name="hint_value">Enter value</string>
+    <string name="input_name">Name</string>
+    <string name="convert">Convert</string>
+    <string name="result_placeholder">Result will appear here</string>
+
+    <string-array name="units_array">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>mpg</item>
+        <item>km/L</item>
+        <item>gallon</item>
+        <item>liters</item>
+        <item>nautical mile</item>
+        <item>kilometers</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
